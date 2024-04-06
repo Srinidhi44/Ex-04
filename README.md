@@ -91,7 +91,7 @@ buf.append(hexDigit[b[j] & 0x0f]); }
 return buf.toString(); }
 }
 ```
-## OUTPUT:
+##  OUTPUT:
 ```
 C:\Program Files\Java\jdk1.6.0_20\bin>javac SHA1.java
 C:\Program Files\Java\jdk1.6.0_20\bin>java SHA1
